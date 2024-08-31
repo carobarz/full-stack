@@ -1,0 +1,19 @@
+# -- Hyper text Markup Language --
+Lenguaje de marcado que estructura el contenido en la web
+- Etiquetas: añadir elementos (corchetes anguláres)
+contenedoras: etiqueta de apertura <> etiqueta de cierre </>
+      ejemplo: <button> like </button> botón
+               <p> Once upon a time </p> párrafo
+               <table> (????)
+
+vacías: no requiere etiqueta de cierre
+      ejemplo: <img> imágen -- (no se inserta, se enlaza,
+la fuente(src) de la imágen debe incluirse en la etiqueta.)
+      ejemplo: <img src= "image_location"> Hay que indicarle al navegador
+donde se encuentra alojada la imágen para que la pueda encontrar.
+
+- Encabezados: ayudan a los motores de busqueda a saber de que trata
+tu página para buscar un público adecuado.
+Hay 6 niveles, del h1 al h6, se pueden combinar con otros elementos;
+deben usarse en el órden correcto.
+      <h1> es el más importante, sólo se puede usar uno por página (<h1> texto </h1>)
