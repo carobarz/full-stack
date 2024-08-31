@@ -1,0 +1,1 @@
+Para instalar x archivo, necesitas 4gb de memoria
