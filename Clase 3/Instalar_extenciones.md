@@ -8,7 +8,7 @@ Versión: 4.2.2
 Editor: John Papa
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
 
-# Para activar
+## Para activar
 ```presionamos ctrl + shift + p (o f1)```
 
 ```escribimos peacock y elegimos change to favorite color```
@@ -21,9 +21,8 @@ Versión: 1.92.2024081409
 Editor: Microsoft
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-es
 
-# Para activar
+## Para activar
 ```reiniciamos vs code```
-
 
 ## **3)**
 Nombre: Markdown All in One
@@ -41,7 +40,6 @@ Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=
     .. # Comillas: ctrl + alt + corchete de cierre
  }
 
-
 ## **4)**
 Nombre: HTML to CSS autocompletion
 ID: solnurkarim.html-to-css-autocompletion
@@ -50,7 +48,6 @@ Versión: 1.1.2
 Editor: solnurkarim
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion
  
-
 ## **5)** 
 Nombre: Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, Java, PHP, Go, and more
 ID: TabNine.tabnine-vscode
@@ -59,4 +56,32 @@ Versión: 3.147.0
 Editor: TabNine
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
 
-## Hay que esperar que solicite iniciar sesión,se puede iniciar con github o googles
+## Hay que esperar que solicite iniciar sesión,se puede iniciar con github o google
+
+## **6)** 
+Nombre: Live Server
+ID: ritwickdey.LiveServer
+Descripción: Launch a development local Server with live reload feature for static & dynamic pages
+Versión: 5.7.9
+Editor: Ritwick Dey
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+```Levanta un servidor para que se pueda ver en el navegador los HTML que vamos haciendo```
+
+## **7)**
+Nombre: Live Share
+ID: MS-vsliveshare.vsliveshare
+Descripción: Real-time collaborative development from the comfort of your favorite tools.
+Versión: 1.0.5936
+Editor: Microsoft
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+
+```Permite que varias personas estén trabajando sobre el mismo proyecto en la misma computadora```
+
+## **8)**
+Nombre: ESLint
+ID: dbaeumer.vscode-eslint
+Descripción: Integrates ESLint JavaScript into VS Code.
+Versión: 3.0.10
+Editor: Microsoft
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
