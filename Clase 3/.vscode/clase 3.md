@@ -1,0 +1,1 @@
+numero = 5 (símbolo de asignación)

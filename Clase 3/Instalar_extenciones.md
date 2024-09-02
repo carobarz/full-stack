@@ -76,12 +76,10 @@ Versión: 1.0.5936
 Editor: Microsoft
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
-```Permite que varias personas estén trabajando sobre el mismo proyecto en la misma computadora```
-
-## **8)**
+```Permite que varias personas estén trabajando sobre el mismo proyecto en la misma computadora```## **8)**
 Nombre: ESLint
 ID: dbaeumer.vscode-eslint
-Descripción: Integrates ESLint JavaScript into VS Code.
 Versión: 3.0.10
-Editor: Microsoft
+Descripción: Integrates ESLint JavaScript into VS Code.
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+Editor: Microsoft
