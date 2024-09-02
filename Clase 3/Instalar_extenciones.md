@@ -77,6 +77,8 @@ Editor: Microsoft
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ```Permite que varias personas estén trabajando sobre el mismo proyecto en la misma computadora```## **8)**
+
+## **8)**
 Nombre: ESLint
 ID: dbaeumer.vscode-eslint
 Versión: 3.0.10
