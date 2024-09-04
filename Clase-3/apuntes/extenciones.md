@@ -85,3 +85,13 @@ Versión: 3.0.10
 Descripción: Integrates ESLint JavaScript into VS Code.
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 Editor: Microsoft
+
+## **9)**
+Nombre: vscode-icons
+ID: vscode-icons-team.vscode-icons
+Descripción: Icons for Visual Studio Code
+Versión: 12.8.0
+Editor: VSCode Icons Team
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
+## Seleccionamos la primera opción que nos aparece en VSCs
