@@ -11,3 +11,7 @@
 
 - Vemos e instalamos algunas extensiones, como cambiar el lenguaje y tabnine
 - Introducción a Markdown
+
+# Clase 4 - Introducción a HTML
+
+- {Repaso} Crear un repositorio (github y git)
